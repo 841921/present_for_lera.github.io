@@ -1,0 +1,29 @@
+* {
+	padding: 0;
+	margin: 0;
+	box-sizing: border-box;
+}
+body {
+	background-color: pink;
+}
+#Q {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+footer {
+	margin-top: 50vh;
+	display: flex;
+	justify-content: space-around;
+	font-size: 2rem;
+}
+#QQ {
+	color: lightcoral;
+	font-size: 2rem;
+}
+.Q {
+	color: pink;
+}
+a {
+	text-decoration: none;
+}

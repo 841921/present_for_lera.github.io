@@ -1,0 +1,29 @@
+* {
+	padding: 0;
+	margin: 0;
+	box-sizing: border-box;
+}
+body {
+	background: linear-gradient(180deg, rgb(0, 41, 255) 53%, rgb(229, 255, 0) 49%);
+	background-repeat: no-repeat;
+	background-color: rgb(229, 255, 0);
+}
+.QQ {
+	display: flex;
+	justify-content: space-around;
+	align-items: center;
+	margin-top: 20vh;
+	font-size: 1.8rem;
+}
+a {
+	text-decoration: none;
+	color: green;
+}
+#Q {
+	font-size: 2rem;
+	display: flex;
+	justify-content: space-around;
+	color: lightcoral;
+	margin-top: 30vh;
+	margin-left: 10vw;
+}

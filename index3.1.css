@@ -1,0 +1,42 @@
+* {
+	padding: 0;
+	margin: 0;
+	box-sizing: border-box;
+}
+body {
+	background-color: lightgreen;
+}
+a {
+	text-decoration: none;
+}
+.Q {
+	margin-top: 50px;
+	display: flex;
+	justify-content: space-around;
+}
+.QQ {
+	display: flex;
+	justify-content: space-around;
+	font-size: 1.8rem;
+	padding-top: 65px; 
+}
+#QQ {
+	height: 50vh;
+	width: 36vw;
+}
+#QQQ {
+	height: 50vh;
+	width: 30vw;
+}
+#Q {
+	font-size: 1.8rem;
+	color: purple;
+	padding-top: 70px;
+	padding-left: 14px;
+}
+#QQQQ {
+	font-size: 2rem;
+	color: goldenrod;
+	padding-top: 70px;
+	padding-left: 43vw;
+}
